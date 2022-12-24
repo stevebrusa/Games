@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Roboto+Slab:wght@300&display=swap');
+
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/btn.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+body {
+	font-family: 'roboto+slab';
+	font-size: 19px;
+}
+
+h1,h2,h3 {
+	font-family: 'righteous family';
+	font-size: 22px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
